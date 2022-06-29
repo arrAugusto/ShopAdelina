@@ -8,6 +8,7 @@ export const CardShopSell = () => {
     <CardTemplate />
     <CardTemplate />
     <CardTemplate />
+    <CardTemplate />
     
     </>
   );

@@ -1,7 +1,7 @@
 .price-before {
     text-decoration: line-through;
 }
-.is-color-shop{
+.is-border-shop{
     background-color: #fff8dd;
     border-radius: 25px;
     border: 15px;
@@ -13,3 +13,4 @@
     border-style: solid;
     border-color: #f03a5f;
 }
+
