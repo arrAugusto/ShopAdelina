@@ -1,5 +1,5 @@
 import React from "react";
-import Brono from "../dist/img/brono.png";
+import Brono from "../dist/img/chuchito.png";
 import "./BodyShop.css";
 export const CardRaw = () => {
   return (
@@ -15,13 +15,14 @@ export const CardRaw = () => {
                       <img src={Brono} alt="Placeholder image" />
                     </figure>
                   </div>
-                  <div className="card-content  notification is-danger is-light">
+                  <div className="card-content  notification is-white">
                     <div className="media ">
                       <div className="media-content">
                         <br />
-                        <p className="subtitle is-4">John Smith </p>
-                        <a href="./prod" className="button is-danger is-normal">
-                          Ver
+                        <p className="subtitle is-4">Bolsa Schnauzer</p>
+                        
+                        <a href="./prod" className="button is-info is-outlined">
+                          Ver &nbsp;<p className="subtitle is-6 has-text-danger  has-text-weight-semibold	is-italic">GTQ 45.00</p>
                         </a>
                         <br />
                       </div>
