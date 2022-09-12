@@ -6,10 +6,7 @@ export const TemplateShop = () => {
     <>
       <nav className="navbar is-transparent nav-bar-template">
         <div className="navbar-brand">
-            <img
-              src={"https://cdn-icons-png.flaticon.com/512/7991/7991055.png"}
-              alt={"AugustoGomez: Desarrollor de S oftware"}
-            />
+            
           </div>
       </nav>
     </>
