@@ -1,5 +1,3 @@
-import React from "react";
-import "bulma/css/bulma.min.css";
 import "./Footer.css";
 export const FooterShop = () => {
   return (
@@ -7,8 +5,8 @@ export const FooterShop = () => {
       <footer className="footer">
         <div className="content has-text-centered">
           <p>
-            <strong>Adelinas</strong> de{" "}
-            <a href="https://augus-dev.netlify.app/">Augusto Gomez Dev</a>. © Todos los derechos reservados.
+            <label>Portafolio Web</label> de
+            <strong> Augusto Gomez Dev</strong>. © Todos los derechos reservados.
           </p>
         </div>
       </footer>

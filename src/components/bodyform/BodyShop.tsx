@@ -1,4 +1,3 @@
-import React from "react";
 import "./BodyShop.css";
 import imgD from "../dist/img/grabilla.g32856.png";
 export const BodyShop = () => {
